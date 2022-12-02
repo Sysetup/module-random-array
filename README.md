@@ -50,7 +50,7 @@ while (i < arr.lenght) {
 
 ### Back-end:
 
-2. Inside the main.js file:
+1. Inside the main.js file:
 
 ```javascript
 import randomArray from "./module-random-array/index.js";
