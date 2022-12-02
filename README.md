@@ -1,4 +1,4 @@
-# Module Random array.
+# Module: Random array.
 
 ----
 
