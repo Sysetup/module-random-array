@@ -47,3 +47,13 @@ while (i < arr.lenght) {
     i++
 }
 ```
+
+### Back-end:
+
+2. Inside the main.js file:
+
+```javascript
+import randomArray from "./module-random-array/index.js";
+let arr = [1,3,4,7]
+randomArray(arr)
+```
